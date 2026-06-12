@@ -21,11 +21,6 @@ A difference-in-difference design which compares the change of voter turnout bet
 
 The goal of this project is analyzing the treatment effect (language assistance requirements) on voter turnout. Potentially, the project can expand the scope by including other elections into the analysis.
 
-Notes:
-County-level electoral systems
-Balance-check
-Dependent variables
-
 ---
 
 ## Data:
