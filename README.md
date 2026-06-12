@@ -1,4 +1,3 @@
-# language-assistance-and-voter-turnout
 # State-Level Language Assistance and Voter Turnout
 
 ## Research Question:
